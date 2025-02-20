@@ -12,3 +12,7 @@ def insertion_sort(arr):
 arr = [12, 11, 13, 5, 6]
 insertion_sort(arr)
 print("Sorted array:", arr)
+
+
+
+DEF BUBBLE_SOR
